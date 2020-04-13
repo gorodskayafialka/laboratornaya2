@@ -1,0 +1,4 @@
+﻿  Process.cpp
+C:\Users\Ксения\source\repos\Huffman_coding\Process.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\source\repos\Huffman_coding\Process.cpp(19,28): warning C4101: err: неиспользованная локальная переменная
+  Huffman_coding.vcxproj -> C:\Users\Ксения\source\repos\Huffman_coding\Debug\Huffman_coding.exe

@@ -1,0 +1,10 @@
+﻿  Coding_tests.cpp
+C:\Users\Ксения\source\repos\Huffman_coding\Coding+Decoding.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\source\repos\Huffman_coding\Coding+Decoding.cpp(29,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\source\repos\Huffman_coding\Coding+Decoding.cpp(33,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\source\repos\Huffman_coding\Output.cpp(12,23): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Ксения\source\repos\Huffman_coding\Process.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\source\repos\Huffman_coding\Process.cpp(19,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Ксения\source\repos\Huffman_coding\Coding_tests\Coding_tests.cpp(29,22): warning C4018: <: несоответствие типов со знаком и без знака
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\╩ёхэш \source\repos\Huffman_coding\Debug\Coding_tests.lib ш юс·хъЄ C:\Users\╩ёхэш \source\repos\Huffman_coding\Debug\Coding_tests.exp
+  Coding_tests.vcxproj -> C:\Users\Ксения\source\repos\Huffman_coding\Debug\Coding_tests.dll
